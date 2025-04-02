@@ -45,4 +45,4 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 ¡Buena suerte!
 
 # Carlos Andres Diaz Mendez
-**Link:** [parcial-ii-cdmendez25.vercel.app]{https://parcial-ii-cdmendez25.vercel.app/}
+**Link:** [parcial-ii-cdmendez25.vercel.app](https://parcial-ii-cdmendez25.vercel.app/)
